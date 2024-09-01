@@ -1,0 +1,5 @@
+aiogram<4.0
+python-dotenv==1.0.0
+pytube==15.0.0
+instaloader==4.13
+TikTokApi==6.5.2
